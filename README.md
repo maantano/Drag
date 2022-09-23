@@ -1,7 +1,7 @@
 # Simple Draggable Component
 
-#Components file : App.js
-#style file : styles.css
+### `Components file : App.js`
+###`style file : styles.css`
 
 Dear Bear Robotics
 
